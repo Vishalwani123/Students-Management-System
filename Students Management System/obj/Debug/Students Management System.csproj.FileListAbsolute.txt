@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\obj\Debug\Students Management System.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\obj\Debug\Students Management System.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\bin\Debug\Students Management System.exe.config
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\bin\Debug\Students Management System.exe
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\bin\Debug\Students Management System.pdb
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\obj\Debug\Students Management System.exe
+C:\Users\Vishal\source\repos\Students Management System\Students Management System\obj\Debug\Students Management System.pdb

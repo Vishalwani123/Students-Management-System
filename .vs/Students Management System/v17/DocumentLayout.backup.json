@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|c:\\users\\vishal\\source\\repos\\students management system\\students management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|solutionrelative:students management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|c:\\users\\vishal\\source\\repos\\students management system\\students management system\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|solutionrelative:students management system\\menu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|c:\\users\\vishal\\source\\repos\\students management system\\students management system\\studentlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|solutionrelative:students management system\\studentlist1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|c:\\users\\vishal\\source\\repos\\students management system\\students management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|solutionrelative:students management system\\student1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|c:\\users\\vishal\\source\\repos\\students management system\\students management system\\custexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F1E69-C19B-49B4-A7CA-119464770043}|Students Management System\\Students Management System.csproj|solutionrelative:students management system\\custexp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustExp1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\CustExp1.cs",
+              "RelativeDocumentMoniker": "Students Management System\\CustExp1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\CustExp1.cs",
+              "RelativeToolTip": "Students Management System\\CustExp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:53:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Student1.cs",
+              "RelativeDocumentMoniker": "Students Management System\\Student1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Student1.cs",
+              "RelativeToolTip": "Students Management System\\Student1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:03:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\StudentList1.cs",
+              "RelativeDocumentMoniker": "Students Management System\\StudentList1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\StudentList1.cs*",
+              "RelativeToolTip": "Students Management System\\StudentList1.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:23:07.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu1.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Menu1.cs",
+              "RelativeDocumentMoniker": "Students Management System\\Menu1.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Menu1.cs",
+              "RelativeToolTip": "Students Management System\\Menu1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:14:54.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Students Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Students Management System\\Students Management System\\Program.cs",
+              "RelativeToolTip": "Students Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:51:37.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
